@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="iso-8859-1"?>
 <Project>
   <Options/>
@@ -14,3 +15,21 @@
     </Linker>
   </ProjectOptions>
 </Project>
+=======
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Project>
+  <Options/>
+  <ProjectOptions>
+    <CompilerTools>
+      <DisableReplacementCompiler Value="False"/>
+      <MakeTool Value=""/>
+      <Bcc32 Value=""/>
+      <Ilink32 Value=""/>
+    </CompilerTools>
+    <Linker>
+      <OverwriteLibFiles Value="False"/>
+      <LibFiles Value=""/>
+    </Linker>
+  </ProjectOptions>
+</Project>
+>>>>>>> e001f7a86792921ce4f610aba5785cbd9d7ff7b2
